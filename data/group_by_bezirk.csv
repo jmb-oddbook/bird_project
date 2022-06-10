@@ -1,0 +1,143 @@
+bezirk,plz
+,"['10781', '12159', '12207', '14513', '14797', '15569']"
+ Steglitz-Zeh,['12207']
+Alt-Treptow,['12435']
+Babelsberg,['14482']
+Berlin (Lankwitz),['12247']
+Biesdorf,['12683']
+Buckow,['12353']
+Charlottenburg,"['10585', '10587', '10589', '10623', '10625', '10627', '10629', '10709', '10711', '10785', '10787', '10789', '14050', '14052', '14057', '14059']"
+Charlottenburg / Grunewald,['14193']
+Charlottenburg-Nord,['13627']
+Charlottenburg-Wilmerdorf,"['10715', '14193']"
+Charlottenburg-Wilmersdorf,"['10589', '10629', '10709', '10713', '10715', '10878', '14057', '14193', '14197', '14199']"
+Charlottenburg-Wilmersdorf / Grunewald,['14193']
+Charlottenburg-Wilmersdorf / Schmargendorf,['14199']
+"Charlottenburg-Wilmersdorf, Grunewald",['14193']
+"Charlottenburg-Wilmersdorf, Schmargendorf","['14193', '14199']"
+"Charlottenburg-Wilmersdorf, Westend",['14057']
+"Charlottenburg-Wilmersdorf, Wilmersdorf","['10711', '10715', '14197']"
+Dahlem,['14195']
+Friedenau,"['12157', '12159', '12161', '12163']"
+Friedrichsfelde (Lichtenberg),['10319']
+"Friedrichsfelde, Karlshorst",['10318']
+Friedrichshai,['10249']
+Friedrichshain,"['10243', '10245', '10249']"
+Friedrichshain-Kreuzberg,"['10243', '10245', '10247', '10317']"
+"Gropiusstadt, Rudow",['12353']
+Grunewald,['14193']
+Hohenschönhausen,"['13053', '13055', '13057']"
+Karlshorst,['10318']
+Karlshorst (Lichtenberg),['10318']
+Kreuzberg,"['10245', '10247', '10961', '10963', '10965', '10967', '10969', '10997']"
+"Kreuzberg, Friedrichshain","['10245', '10247']"
+"Kreuzberg, südl. Luisenstadt",['10999']
+Kreuzberg-Friedrichshain,['10997']
+Köpenick,"['12555', '12557', '12559']"
+Lankwitz,"['12247', '12249']"
+Lichtenberg,"['10315', '10317', '10318', '10319', '10365', '10367', '10369', '13051', '13052', '13053', '13055', '13057', '13059']"
+"Lichtenberg, Alt-Hohenschönhausen",['13055']
+"Lichtenberg, Friedrichsfelde","['10315', '10319']"
+"Lichtenberg, Hohenschönhausen",['13051']
+"Lichtenberg, Karlshorst",['10318']
+"Lichtenberg, Malchow",['13051']
+"Lichtenberg, Neu-Hohenschönhausen",['13053']
+Lichtenrade,['12157']
+Lichterfelde,"['12203', '12207']"
+Lichterfelde Ost,['12209']
+Lichterfelde West,['12205']
+"Lichterfelde, Steglitz-Zehlendorf",['12207']
+Lichtfelde,['12207']
+Mariendorf,"['12107', '12109']"
+Mariendorf (Tempelhof),['12107']
+Marienfelde,"['12277', '12279']"
+Marzahn,"['12679', '12681', '12685']"
+Marzahn-Hellersdorf,['12619']
+"Marzahn-Hellersdorf, Kaulsdorf",['12621']
+"Marzahn-Hellersdorf, Mahlsdorf",['12623']
+Mitte,"['10115', '10117', '10119', '10178', '10179', '10243', '10555', '10557', '10559', '10969', '13349', '13351', '13353', '13355', '13357', '13359', '13405']"
+"Mitte, Gesundbrunnen",['13357']
+"Mitte, Moabit",['10559']
+"Mitte, Wedding","['13353', '13355', '13357', '13359']"
+Moabit,"['10551', '10555']"
+Neukölln,"['10967', '12043', '12045', '12047', '12049', '12051', '12053', '12055', '12057', '12059', '12347', '12351', '12359']"
+"Neukölln, Britz","['12347', '12351']"
+"Neukölln, Buckow","['12349', '12353', '12355']"
+"Neukölln, Gropiusstadt","['12351', '12353']"
+"Neukölln, Mariendorf",['12051']
+"Neukölln, Rudow",['12357']
+Neukölln-Buckow,['12353']
+Niederschöneweide,['12439']
+Niederschönhausen,"['13156', '13158']"
+Nikolassee,['14163']
+Pankow,"['10158', '10405', '10407', '10437', '10439', '13089', '13127', '13158', '13187', '13189']"
+Potsdam,['14482']
+Prenzlauer Berg,"['10405', '10407', '10409', '10435', '10437', '10439']"
+Reinickendorf,"['13403', '13405', '13409', '13437', '13439', '13469', '13505', '13507', '13509']"
+Schmargendorf/Wilmersdorf,['14199']
+Schöneberg,"['10777', '10779', '10781', '10783', '10787', '10823', '10825', '10827', '10829', '10965', '12099', '12101', '12105', '12157', '12159', '12161', '12279', '14197']"
+Schöneberg-Tempelhof,['10827']
+Siemensstadt (Charlottenburg Nord),['13627']
+Spandau,"['13595', '13597', '13629']"
+"Spandau, Gatow/Kladow",['14089']
+"Spandau, Wilhelmstadt",['13593']
+Steglitz,"['10963', '12157', '12161', '12163', '12165', '12167', '12169', '12203', '12205', '12207', '12209', '12247', '12249', '12277', '14163', '14165', '14195', '14199']"
+Steglitz (Lankwitz),"['12247', '12249']"
+Steglitz (Lichterfelde),['12203']
+Steglitz - Zehlendorf Ortsteil: Lankwitz,['12247']
+Steglitz / Lichterfelde,['12203']
+Steglitz Langwitz,['12249']
+Steglitz Lichterfelde,['12205']
+Steglitz Zehlendorf,"['12163', '12167', '12169', '12247', '12279']"
+"Steglitz, Lankwitz",['12209']
+"Steglitz, Lichterfelde Süd",['12207']
+Steglitz-Zehl,"['12161', '12165', '12167', '12207', '12209', '12247', '12249']"
+Steglitz-Zehlendorf,"['12163', '12165', '12167', '12203', '12205', '12207', '12209', '12247', '12249', '14109', '14163', '14167', '14169', '14195', '14199']"
+Steglitz-Zehlendorf ,['12163']
+Steglitz-Zehlendorf (Dahlem),['14195']
+Steglitz-Zehlendorf (Lankwitz),['12247']
+Steglitz-Zehlendorf (Lichterfelde),"['12203', '12205', '12207', '12209']"
+Steglitz-Zehlendorf (Wannsee),['14109']
+Steglitz-Zehlendorf / Lichterfelde,['12203']
+"Steglitz-Zehlendorf, Dahlem","['14169', '14195']"
+"Steglitz-Zehlendorf, Grunewald","['14169', '14193']"
+"Steglitz-Zehlendorf, Lankwitz","['12209', '12247', '12249']"
+"Steglitz-Zehlendorf, Lichterfelde","['12203', '12205', '12207']"
+"Steglitz-Zehlendorf, Lichterfelde ",['12205']
+"Steglitz-Zehlendorf, Lichterfelde West","['12203', '12205']"
+"Steglitz-Zehlendorf, Lichterfelde-Ost","['12207', '12209']"
+"Steglitz-Zehlendorf, Lichterfelde-West","['12203', '12205', '12207']"
+"Steglitz-Zehlendorf, Steglitz","['12163', '12165', '12167', '12169', '12203', '12247']"
+"Steglitz-Zehlendorf, Wannsee",['14109']
+"Steglitz-Zehlendorf, Zehlendorf","['14129', '14163', '14165', '14169']"
+Steglitz-Zehlendorf. Lichterfelde-West,['12203']
+"Steglitz-Zehnlendorf, Lichterfelde",['12203']
+Stegliz,['12167']
+Tegel,['13405']
+Teltow-Fläming (Berliner Stadtgüter),['14979']
+Tempelhof,"['10965', '12099', '12101', '12103', '12105', '12347']"
+Tempelhof (Mariendorf),['12109']
+Tempelhof-Sch,['10829']
+Tempelhof-Schöneberg,"['10781', '10783', '12157', '12159', '12161', '14197']"
+"Tempelhof-Schöneberg, Friedenau",['12161']
+"Tempelhof-Schöneberg, Lichtenrade",['12309']
+"Tempelhof-Schöneberg, Mariendorf","['12107', '12277']"
+"Tempelhof-Schöneberg, Marienfelde",['12279']
+"Tempelhof-Schöneberg, Schöneberg",['10781']
+"Tempelhof-Schöneberg, Tempelhof","['12101', '12103', '12105']"
+Test,['14197']
+Tiergarten,"['10555', '10785']"
+Treptow,"['12435', '12487', '12587']"
+"Treptow, Altglienicke",['12524']
+Treptow-Köpenick,"['12435', '12437', '12459', '12487', '12559', '12589']"
+"Treptow-Köpenick, Friedrichshagen",['12587']
+"Treptow-Köpenick, Müggelheim",['12559']
+"Treptow-Köpenick, Rahnsdorf",['12589']
+"Treptow-Köpenick, Treptow",['12437']
+Wannsee,['14109']
+Wedding,"['13347', '13351', '13353', '13357', '13359']"
+Weißensee/Heinersdorf,['13086']
+Wilmerdorf,['14199']
+Wilmersdorf,"['10587', '10623', '10625', '10629', '10707', '10709', '10711', '10713', '10715', '10717', '10719', '10777', '10779', '12161', '14057', '14059', '14193', '14195', '14197', '14199']"
+Wilmersdorf-Charlottenburg,"['10713', '10715']"
+Zehlendorf,"['14129', '14163', '14165', '14167', '14169', '14195']"
